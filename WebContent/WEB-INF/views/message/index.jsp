@@ -33,8 +33,5 @@
         </div>
         <p><a href="${pageContext.request.contextPath}/new">新規メッセージの投稿</a></p>
 
-        <!-- ...（中略）... -->
-        <p><a href="${pageContext.request.contextPath}/new">新規メッセージの投稿</a></p>
-
     </c:param>
 </c:import>
