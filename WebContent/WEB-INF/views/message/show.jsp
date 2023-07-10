@@ -9,7 +9,6 @@
 
                 <table>
                     <tbody>
-
                         <tr>
                             <th>メッセージ</th>
                             <td><c:out value="${message.content}" /></td>
